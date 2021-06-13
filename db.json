@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Gym",
+      "day": "Sunday 13th @ 11PM",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Pool",
+      "day": "Monday 14th @ 11:30AM",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "React Crash Course",
+      "day": "Monday 14th @ 7PM",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Learn Wordpress",
+      "day": "Monday 14th @ 10PM",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Internship - Day 1",
+      "day": "Tuesday 14th @ 9AM",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
